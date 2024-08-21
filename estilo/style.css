@@ -23,33 +23,8 @@
     padding: 0px;
   }
 
-  header {
-    background-color: black;
-    color: white;
-    padding: 40px;
-    text-align: center;
-    
-  }
+  
 
-  header h1 {
-    font-family: "Passion One", sans-serif;
-    font-weight: 700;
-    font-style: normal;
-  }
-
-  header  a {
-    text-decoration: none;
-    color: white;
-  }
-
- article p {
-    font-family: "Sriracha", cursive;
-    font-weight: 600;
-    font-style: normal;
-    width: 300px;
-    height: 300px;
-    padding: 40px;
-  }
 
 
 
